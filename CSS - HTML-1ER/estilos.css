@@ -1,0 +1,61 @@
+div{
+    border-width: 2px;
+    background-color: #0583F2;
+    border-style: solid;
+    margin: 0px;
+    height: 200px;
+}
+body{
+    background-color:#14488c;
+}
+#titulo{
+    font-family: fantasy;
+    
+    text-align: center;
+    color: aliceblue;
+    margin-top: 40px;
+}
+.img{
+    margin:-85px 0px 0px 1200px;
+    
+}
+#direc{
+    color: aliceblue;
+    margin-top: -75px;
+    text-align: center;
+}
+#co{
+    color: aliceblue;
+    text-align: center;
+}
+#num{
+    color: aliceblue;
+    text-align: left;
+    margin-top: -80px;
+    margin-left: 30px;
+}
+#telefono{
+    color: aliceblue;
+    text-align: left;
+    margin-left: 120px;
+}
+#tabla{
+    height: 600px;  
+    background-color: #124188;
+}
+#horario{
+    background-color: #0583F2; 
+    color: aliceblue;
+    width: 80%;
+    height: 80%;
+    margin: 10px 0PX 0PX 8pc;
+    margin-top: 20px;
+    border-color: #124188;
+  
+}
+#hora{
+    margin: 10px 0px 0px 40pc;
+    margin-top: 20px;
+    color: aliceblue;
+    
+}

@@ -1,0 +1,52 @@
+body{
+    background-color: #4c007d;
+}
+#titulo{
+    color: aliceblue;
+    margin-left: 110px;
+    padding-top: 20px;
+    
+}
+#encabezado{
+    background-color: #7f00b2;   
+    height: 14pc;
+}
+#requisitos{
+    background-color: #4ed8b8;
+    margin-top: 15pc;
+}
+#f1{
+    color: antiquewhite;
+    margin-top: 70px;
+    margin-left: 10pc;
+}
+#d2{
+    background-color: #7f00b2;
+    height: 6pc;
+    margin-top: 2pc;
+   
+}
+#eva{
+    margin-left: 14pc;
+}
+#f2{
+    color: aliceblue;
+    padding-top: 37px;
+    margin-left: 100px;
+}
+#d3{
+    background-color: #7f00b2;
+    height: 19pc;
+    margin-top: 2pc;
+}
+#comentarios{
+    margin-left: 27pc;
+    padding-top: 45px;
+}
+#c{
+    color: aliceblue;
+    margin-left: 12pc; 
+}
+#Enviar{
+    margin-left: 30px;
+}

@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(17,107,143);
+    color: aliceblue;
+    margin-top: 10pc;
+  }
+  p{
+    margin: 10px 0;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }

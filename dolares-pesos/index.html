@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="c.js"></script>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    
+    <div class="d1">
+        <h1>Conversor de Pesos a Dólares</h1>
+
+        <label for="tipoConversion">Tipo de Conversión:</label>
+        
+        <select id="tipoConversion">
+          <option value="pesos-dolares">Pesos a Dólares</option>
+          <option value="dolares-pesos">Dólares a Pesos</option>
+         
+        </select>
+        
+      
+        <br><br>
+       
+        <label for="cantidad">Cantidad:</label>
+        <input type="number" id="cantidad">
+      
+        <br><br>
+      
+        <button onclick="convertir()">Convertir</button>
+        <button onclick="limpiar()">Limpiar</button>
+      
+        <br><br>
+      
+        <div id="resultado">Resultado:</div>
+    </div>
+</body>
+</html>

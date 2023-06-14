@@ -1,0 +1,17 @@
+.d1{
+    margin-top: 3pc;
+    color: azure;
+    padding: 3pc 2pc;
+    margin-left: 28pc;
+    margin-right: 30pc;
+    background: #1B9C85;
+    text-align: center;
+    border-radius: 10px;    
+    text-align: center;
+    box-shadow: 0px 40px 45px rgb(0,0,0,0.3);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+body{
+    background-color: #4C4C6D;
+}
+
